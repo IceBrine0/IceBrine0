@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Juan 👋
 
-<!--
-**IceBrine0/IceBrine0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entry-level Python developer currently learning through hands-on projects.
 
-Here are some ideas to get you started:
+### 🔹 What I'm working on
+- Completing **100 Days of Python** (currently Day 38)
+- Building small but practical applications
+- Learning Python fundamentals, data handling, and basic automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Interests
+- Python development
+- Automation & admin tools
+- Data tracking and visualization
+- Problem-solving through code
+
+### 🔹 Current focus
+I'm focused on writing clean, understandable Python code and finishing projects rather than rushing through advanced topics.
+
+📍 Based in Pretoria, South Africa  
+🌱 Always learning
